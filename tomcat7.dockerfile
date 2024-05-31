@@ -1,6 +1,6 @@
 FROM adoptopenjdk/openjdk8:ubi
 
-LABEL name=Tomcat 7 \
+LABEL name=Tomcat7 \
       authors=nks1608 \
       version=v0.02
 
